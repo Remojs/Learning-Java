@@ -14,6 +14,21 @@ public class Main {
 
         // Variables
 
+        //tipos de datos en java:
+        /*
+            - Byte (primitive)
+            - Short (primitive)
+            - int (primitive) ej: 1, 5, 14, 85 , etc.
+            - long (primitive) ej: numbers between -9.223.372.036.854.775.808 and 9.223.372.036.854.775.807
+            - float (primitive)
+            - double (primitive) ej: 1.44 , 5.8, 58.3 , etc.
+            - char (primitive) ej: "a", "b", "c" , etc.
+            - boolean (primitive) ej: true / false
+            - string (refernece) ej: "hello", "friend" , etc.
+            - array (refernece)
+            - null (special)
+        */ 
+
         String myString = "Esto es una cadena de texto";
         myString = "Aquí cambio el valor de la cadena de texto";
         System.out.println(myString);
